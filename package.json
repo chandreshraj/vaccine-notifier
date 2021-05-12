@@ -1,0 +1,19 @@
+{
+  "name": "vaccine-notifier",
+  "version": "1.0.0",
+  "description": "mailer service when Vaccine is available",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandreshraj/vaccine-notifier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandreshraj/vaccine-notifier/issues"
+  },
+  "homepage": "https://github.com/chandreshraj/vaccine-notifier#readme"
+}
