@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/chandreshraj/vaccine-notifier/issues"
   },
-  "homepage": "https://github.com/chandreshraj/vaccine-notifier#readme"
+  "homepage": "https://github.com/chandreshraj/vaccine-notifier#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "moment": "^2.29.1",
+    "nodemailer": "^6.6.0"
+  }
 }
