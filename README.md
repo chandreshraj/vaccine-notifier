@@ -35,6 +35,9 @@ node index.js
 2. can configure it has a crontab
 >*/5 * * * * node index.js >> whathappened.log
 
+3. Enable Less secute app accessibility in your gmail
+>https://myaccount.google.com/lesssecureapps
+
 it will execute every 5 mins and respective generated log will be written in the .log file
 
 Sample :
